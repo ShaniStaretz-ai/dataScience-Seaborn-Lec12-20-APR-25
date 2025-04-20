@@ -5,7 +5,7 @@ Seaborn - intro - presentation 25
   * palette= template of colors
   * s=size
   * alpha= transparency 0-1
-* sns.displot(data=df,x='salary',bin=30,kde=True)= histogram graph
+* sns.displot/histplot(data=df,x='salary',bin=30,kde=True)= histogram graph
   * sns.kdplot(data=df,x='salary')=histogram line only
 * sns.countplot -like histogram.
   * vs hist: hist unite groups.
